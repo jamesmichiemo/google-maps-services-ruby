@@ -73,10 +73,10 @@ To generate a server key for your project:
     * Roads API
  1. Once you've enabled the APIs, click **Credentials** from the left navigation of the Developer
     Console.
- 1. In the "Public API access", click **Create new Key**.
- 1. Choose **Server Key**.
+ 1. In the "Credentials" dashboard, click **Create credentials**.
+ 1. Choose **API key**.
  1. If you'd like to restrict requests to a specific IP address, do so now.
- 1. Click **Create**.
+ 1. Copy your API key and click **Close**.
 
 Your API key should be 40 characters long, and begin with `AIza`.
 
